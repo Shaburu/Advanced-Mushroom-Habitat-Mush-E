@@ -1,24 +1,3 @@
-
-*{--htbgreen: #9fef00;
-    --node:#141d2b;
-    --htbgrey: #a4b1cd;
-    --azure: #0086ff;
-    --nugget:#ffaf00;
-    --malware:#ff3e3e;
-    --purple:#9f00ff;
-    --aquamarine:#2ee7b6;
-    --nodelighter: #1e2d44;
-    --nodeMoreLighter:#21334d;
-    --nodedark: #0d121b;
-    --cartoonRed: #ea4f5e;
-    --cartoonYellow: #f6c348;
-    --cartoonGreen:	#40e7b9;
-    --cartoonBlue:#4f73f4;
-    --cartoonViolet:#da65f9;
-    --red100: #F5776B;
-    --black100: #1B1B1B;
-}  
-
 .active{
     background-color: var(--nodelighter);
 }
@@ -32,7 +11,7 @@ nav {
     position: sticky;
     margin-top: 10px;
     margin: auto;
-    padding: 0.5rem 2rem;
+    padding: 0.5rem 12rem;
     
 }
 

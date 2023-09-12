@@ -1,32 +1,25 @@
+*{--htbgreen: #9fef00;
+  --node:#141d2b;
+  --htbgrey: #a4b1cd;
+  --azure: #0086ff;
+  --nugget:#ffaf00;
+  --malware:#ff3e3e;
+  --purple:#9f00ff;
+  --aquamarine:#2ee7b6;
+  --nodelighter: #1e2d44;
+  --nodeMoreLighter:#21334d;
+  --nodedark: #0d121b;
+  --cartoonRed: #ea4f5e;
+  --cartoonYellow: #f6c348;
+  --cartoonGreen:	#40e7b9;
+  --cartoonBlue:#4f73f4;
+  --cartoonViolet:#da65f9;
+  --red100: #F5776B;
+  --black100: #1B1B1B;
+} 
+
 #root {
   width: 100%;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #ff3e3e);
-}
-
-@keyframes logo-scale {
-  0% {
-    transform: scale(1.5);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-scale infinite 10s ease-in-out;
-  }
-}
 
