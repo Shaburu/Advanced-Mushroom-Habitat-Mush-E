@@ -1,10 +1,14 @@
-import { useState } from 'react'
-import viteLogo from '/mascaria.png'
+
 import './App.css'
+import { Route, Routes } from "react-router-dom";
+import { Navbar } from "./components/Navbar.tsx";
+
+
+import viteLogo from '/mascaria.png'
+import {Home} from "./components/pages";
+
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <div>
@@ -15,18 +19,19 @@ function App() {
           <img src={viteLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+   
+      <div className='App'>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/blog" element={<Home />} />
+        <Route path="/projects" element={<Home />} />
+        <Route path="/contact" element={<Home />} />
+        <Route path="/mushroom" element={<Home />} />
+      </Routes>
+       
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+
     </>
   )
 }
