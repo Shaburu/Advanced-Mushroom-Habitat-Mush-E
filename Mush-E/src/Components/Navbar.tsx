@@ -31,10 +31,10 @@ export const Navbar = () => {
   }, []);
 
   return (
-    <div className="navPLEASE">
+    <div >
       <nav>
-        <Link to="/" className="title">
-          SHABURU
+        {/* <Link to="/" className="title">
+          SUSBOT
         </Link>
         <div
           className={`menu ${menuOpen ? "open" : ""}`}
@@ -47,14 +47,25 @@ export const Navbar = () => {
         </div>
         <ul className={menuOpen ? "open" : ""} ref={menuRef}>
           <li>
-            <NavLink to="/blog">BLOG</NavLink>
+            <NavLink to="/blog">Mushroom</NavLink>
           </li>
           <li>
-            <NavLink to="/projects">Projects</NavLink>
+            <NavLink to="/projects">Leafy Greens</NavLink>
+          </li>
+         
+        </ul> */}
+
+<Link to="/" className="title">
+          SUSBOT
+        </Link>
+        <ul >
+          <li>
+            <NavLink to="/mushroom">Mushroom</NavLink>
           </li>
           <li>
-            <NavLink to="/contact">Contact</NavLink>
+            <NavLink to="/green">Leafy Greens</NavLink>
           </li>
+         
         </ul>
       </nav>
     </div>

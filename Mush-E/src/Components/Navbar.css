@@ -19,24 +19,6 @@
     --black100: #1B1B1B;
 }  
 
-/* *{--htbgreen: #9fef00;
-    --node:#141d2b;
-    --htbgrey: #a4b1cd;
-    --azure: #0086ff;
-    --nugget:#ffaf00;
-    --malware:#ff3e3e;
-    --purple:#9f00ff;
-    --aquamarine:#2ee7b6;
-    --nodelighter: #1e2d44;
-    --nodeMoreLighter:#21334d;
-    --nodedark: #0d121b;
-    --cartoonRed: #ea4f5e;
-    --cartoonYellow: #f6c348;
-    --cartoonGreen:	#40e7b9;
-    --cartoonBlue:#4f73f4;
-    --cartoonViolet:#da65f9;
-}   */
-
 .active{
     background-color: var(--nodelighter);
 }
@@ -45,21 +27,21 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: var(--red100);
+    background-color: var(--htbgrey);
     color: white;
     position: sticky;
-    max-width: calc(var(--main-width) + var(--gap) * 2);
     margin-top: 10px;
     margin: auto;
-    padding: 0px var(--gap);
+    padding: 0.5rem 2rem;
+    
 }
 
 nav .title {
     font-family: 'Bowlbey';
-    font-size: 2.5rem;
+    font-size: 36px;
     letter-spacing: 0.3rem;
     text-decoration: none;
-    color: var(--black100);
+    color: var(--htbgreen);
     animation: titleDance 5s infinite;
 }
 /* 
@@ -83,8 +65,8 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    font-family: 'valo';
-    font-size: large;
+    font-family: 'jakarta';
+    font-size: 20px;
     text-decoration: none;
     color: var(--htbgreen);
     padding: 0.5rem;

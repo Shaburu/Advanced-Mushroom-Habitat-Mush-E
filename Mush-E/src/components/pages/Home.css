@@ -1,0 +1,36 @@
+.hero{
+    display: flex;
+    padding: 2rem;
+    font-family: 'jakarta';
+}
+
+.content-left{
+    display: flex;
+    flex-direction: column;
+}
+
+.TryCode{
+    display: flex;
+}
+
+.flex{
+    display: flex;
+    border: 5px solid red;
+    padding: 2rem;
+}
+.flex-child{
+      background: green;
+      border: 2px solid yellow;
+      flex: 1;
+    }
+
+  
+.flex--vertical{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.flex--vertical > .flex-child{
+      min-width: 100%;
+    }
+  
+  
