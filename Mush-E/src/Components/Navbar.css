@@ -1,5 +1,5 @@
 .active{
-    background-color: var(--nodelighter);
+    background-color: var(--htbgrey10);
 }
 
 nav {
@@ -20,7 +20,7 @@ nav .title {
     font-size: 36px;
     letter-spacing: 0.3rem;
     text-decoration: none;
-    color: var(--black100);
+    color: white;
     animation: titleDance 5s infinite;
 }
 /* 

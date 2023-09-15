@@ -3,6 +3,7 @@
     padding: 2rem 12rem;
     font-family: 'jakarta';
     overflow: hidden;
+    align-items: center;
 }
 
 .content-left{
@@ -14,9 +15,7 @@
     margin-top: 3rem;
 }
 
-.content-right2{
-    margin: -40px;
-}
+
 .TryCode{
     display: flex;
     gap: 100px;

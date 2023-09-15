@@ -1,5 +1,5 @@
 import viteLogo from '/mascaria.png'
-import green from '/bokchoy.png'
+import green from '/bokchoyCUM.png'
 import "./Home.css";
 
 import { Link } from "react-router-dom";
@@ -41,7 +41,7 @@ export const Home = () => {
 
         <div className='hero'>
           <div className='content-right2 logo'>
-          <Link to="/mushroom">
+          <Link to="/green">
           <img src={green} className="logo vite" alt="React logo" width='100%' />
           </Link>
           </div>
