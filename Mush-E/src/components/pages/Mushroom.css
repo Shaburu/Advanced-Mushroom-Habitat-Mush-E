@@ -274,6 +274,17 @@
   padding: 1rem 3rem;
   height: 50vh;
   border-radius: 5px;
+
+  min-width: 200px;
+
+  --s: 100px; /* control the size */
+    
+  --_g: #0000 90deg,#366 0;
+  background: 
+    conic-gradient(from 90deg at 2px 2px,var(--_g)),
+    conic-gradient(from 90deg at 1px 1px,var(--_g));
+  background-size: var(--s) var(--s), calc(var(--s)/5) calc(var(--s)/5);
+
 }
 
 .calender{
@@ -286,4 +297,6 @@
   height: 50vh;
   border-radius: 5px;
   width: 100%;
+
+  
 }
