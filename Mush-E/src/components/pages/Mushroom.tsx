@@ -69,9 +69,14 @@ export const Mushroom = () => {
             </div>
             <div>
              <h2>Add to Inventory data</h2>
+             <div className="buttons">
                 <div className="addButton">
                     ADD
                 </div>
+                <div className="addButton2">
+                    SHOW
+                </div>
+              </div>
             </div>
           </div>
         </div>

@@ -132,7 +132,10 @@
   border-radius: 10px;
   min-height: 100px;
 }
-
+.buttons{
+  display: flex;
+  gap: 3rem;
+}
 .addButton{
   background-color: var(--malware);
   padding: 1rem 2rem;
@@ -148,13 +151,28 @@
   cursor: pointer;
 }
 
+.addButton2{
+  background-color: var(--olivegreen100);
+  padding: 1rem 2rem;
+  border: var(--black100) 4px solid;
+  box-shadow: 4px 4px var(--black100);
+}
+
+.addButton2:hover{
+  background-color: var(--olivegreen100);
+  padding: 1rem 2rem;
+  border: var(--black100) 4px solid;
+  box-shadow: 0px 0px var(--black100);
+  cursor: pointer;
+}
+
 .monitorStats{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
   margin: 10px 0px;
-  width: 90%;
+  width: 91%;
+  background-color: var(--beige);
 }
 
 .monitorItems{
@@ -176,12 +194,12 @@
   width: 90%;
   height: 100%;
   display: flex;
-  border: 4px solid var(--black100);
+  border: 5px solid var(--black100);
   margin: 3rem;
   align-items: center;
   justify-content: center;
 
-    --s: 100px; /* control the size */
+    --s: 109px; /* control the size */
     
     --_g: #0000 90deg,#366 0;
     background: 
@@ -277,7 +295,8 @@
 
   min-width: 200px;
 
-  --s: 100px; /* control the size */
+  --s: 280px; 
+  /* --s:100px; */
     
   --_g: #0000 90deg,#366 0;
   background: 
