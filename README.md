@@ -32,7 +32,7 @@ Computer vision plays a pivotal role in these setups by enabling real-time monit
 Utilising Plant Doc's Plant disease dataset 
 ![image](https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/master/PlantDoc_Examples.png)
 
-and Building Own Mushroom Contamination dataset in PyTorch
+and Building Own Mushroom and Mushroom Contamination dataset 
 ![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/ad867d7d-3b6d-431b-97fc-6a76014e8bde)
 
 
