@@ -1,6 +1,8 @@
 # SusBot
 
-Built Using React + TypeScript + Vite
+Built Using React + TypeScript + Vite and Python + Flask - OpenCV, Numpy, Pandas, Pytorch
+
+Agriculture 4.0
 
 ![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/4527f2e1-342f-4e07-bf5b-d480208e3667)
 
