@@ -1,6 +1,6 @@
 # SusBot
 
-![susbot](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/bgremoved%20straight.png)
+![susbot](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/bgremoved%20straight.png?raw=true)
 ![bgremoved straight]([https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/b085cd0d-5e4a-4579-9107-077ce0a0dfb5](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/plantdoc.png))
 ![plantdoc]([https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/d1ee951d-4faa-4ead-a4cb-be0880e0bf49](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/susbot.png))
 
