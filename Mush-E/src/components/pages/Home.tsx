@@ -11,13 +11,13 @@ export const Home = () => {
       <div className='hero'>
           <div className='content-left'>
             <h1>
-             Mushrooms Bot 
+             MycoBot 
             </h1>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi error eos
-            laudantium necessitatibus illo! Eius laudantium doloremque animi, 
-            velit incidunt ullam nulla voluptates alias labore earum dolorum corporis corrupti?
-            </p>
+            Introducing the MycoBot <br/><br/>
+            Revolutionizing Mushroom Cultivation with Computer Vision
+
+            The Mycobot is a groundbreaking innovation that combines the power of computer vision with advanced automation to create a fully autonomous mushroom cultivation system. Inspired by the challenges of traditional mushroom farming and the demands of future space exploration, the Mycobot represents a leap forward in sustainable food production, scientific research, and technological innovation.  </p>
             <div className='TryCode'>            
               <Link to="/mushroom">
               <div>
@@ -47,13 +47,14 @@ export const Home = () => {
           </div>
           <div className='content-left'>
             <h1>
-              Leafy Greens Bot
+            VerdeBot
             </h1>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere eligendi error eos
-            laudantium necessitatibus illo! Eius laudantium doloremque animi, 
-            velit incidunt ullam nulla voluptates alias labore earum dolorum corporis corrupti?
-            </p>
+            Introducing the VerdeBot: <br/> <br/>
+            Transforming Leafy Greens Farming with Cutting-Edge Automation and Computer Vision
+
+The VerdeBot represents a remarkable leap forward in the world of leafy greens farming. This groundbreaking innovation harnesses the power of advanced automation and computer vision to create a fully autonomous system for cultivating leafy greens. Designed to address the challenges of traditional farming and adapt to future agricultural needs, VerdeBot is poised to revolutionize sustainable food production, scientific research, and technological progress.
+             </p>
             <div className='TryCode'>            
               <Link to="/green">
               <div>
