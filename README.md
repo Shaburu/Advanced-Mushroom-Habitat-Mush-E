@@ -6,6 +6,7 @@
 
 Vision First Agriculture Bot Built for Deep Space exploration and Extreme Climates on Earth.
 A Fully Autonomous Closed-Loop Farming solution to grow exotic Vegetables and Mushrooms!
+![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/homepage.png?raw=true)
 
 ## Tech Stack
 Built Using React + TypeScript + Vite and Python + Flask - OpenCV, Numpy, Pandas, Pytorch
@@ -14,8 +15,6 @@ Built Using React + TypeScript + Vite and Python + Flask - OpenCV, Numpy, Pandas
 Constructed employing an array of IoT sensors including CO2, temperature, and humidity sensors, this system integrates control units such as a dehydrator, servo motors, LED lights, water sprinkler, high-definition cameras, and a sealed chamber to meticulously regulate the environment.
 
 ## MycoBot
-![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/homepage.png?raw=true)
-
 Monitoring, Detect Contamination and a Timeline to help keep your daily tasks and projections in check.
 Detect contam before it destroys your harvest and send corrective measures so your crops remain safe and produce a high yield
  ![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/r&d.png?raw=true)
