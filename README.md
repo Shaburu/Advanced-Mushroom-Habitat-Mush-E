@@ -1,5 +1,10 @@
-# SusBot
+![bgremoved straight](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/01f340e3-d364-4709-a7cd-240df0a22c90)# SusBot
 ![susbot](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/68076764-0f43-445d-8ff7-f8e9e52045af)
+![bgremoved straight](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/b085cd0d-5e4a-4579-9107-077ce0a0dfb5)
+![plantdoc](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/d1ee951d-4faa-4ead-a4cb-be0880e0bf49)
+
+Vision First Agriculture Bot Built for Deep Space exploration and Extreme Climates on Earth.
+A Fully Autonomous Closed-Loop Farming solution to grow exotic Vegetables and Mushrooms!
 
 Built Using React + TypeScript + Vite and Python + Flask - OpenCV, Numpy, Pandas, Pytorch
 
