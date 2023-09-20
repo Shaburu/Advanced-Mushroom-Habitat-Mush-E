@@ -1,5 +1,5 @@
 # SusBots
-| | | |
+|MycoBot | Tower | VerdeBot |
 |-|-|-|
 | ![susbot](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/bgremoved%20straight.png?raw=true)| ![plantdoc](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/susbot.png?raw=true)|![bgremoved straight](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/plantdoc.png?raw=true) |
 
