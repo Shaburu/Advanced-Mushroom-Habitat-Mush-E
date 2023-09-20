@@ -30,8 +30,11 @@ Using PlantDoc an extensive Green Plant disease dataset capable of finding Plant
 Computer vision plays a pivotal role in these setups by enabling real-time monitoring, anomaly detection, and data-driven decision-making, ensuring optimal growth conditions for crops in terrestrial and space-based environments. It acts as the vigilant eye that never sleeps, offering continuous insights that humans might overlook, enhancing agricultural efficiency and sustainability.
 
 Utilising Plant Doc's Plant disease dataset 
-and Building Own Mushroom Contamination dataset in PyTorch
-
 ![image](https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/master/PlantDoc_Examples.png)
+
+and Building Own Mushroom Contamination dataset in PyTorch
+![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/ad867d7d-3b6d-431b-97fc-6a76014e8bde)
+
+
 
 
