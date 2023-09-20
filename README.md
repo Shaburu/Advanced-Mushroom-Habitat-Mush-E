@@ -1,4 +1,5 @@
 # SusBot
+![susbot](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/assets/67481819/68076764-0f43-445d-8ff7-f8e9e52045af)
 
 Built Using React + TypeScript + Vite and Python + Flask - OpenCV, Numpy, Pandas, Pytorch
 
