@@ -5,6 +5,7 @@
 
 Vision First Agriculture Bot Built for Deep Space exploration and Extreme Climates on Earth.
 A Fully Autonomous Closed-Loop Farming solution to grow exotic Vegetables and Mushrooms!
+<br>
 ![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/homepage.png?raw=true)
 
 ## Tech Stack
