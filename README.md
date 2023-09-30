@@ -32,7 +32,7 @@ Computer vision plays a pivotal role in these setups by enabling real-time monit
 Utilising Plant Doc's Plant disease dataset 
 ![image](https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/master/PlantDoc_Examples.png)
 
-and Building Own Mushroom and Mushroom Contamination dataset 
+Data From Arduino's being reflected on a dashboard
 ![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/deets.png?raw=true)
 
 
