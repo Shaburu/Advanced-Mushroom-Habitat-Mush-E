@@ -8,8 +8,7 @@
 A fully autonomous, closed-loop farming solution to cultivate exotic vegetables and mushrooms with precision!  
 
 <br>
-![Dashboard](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/homepage.png?raw=true)
-
+![image](https://github.com/Shaburu/Advanced-Mushroom-Habitat-Mush-E/blob/main/homepage.png?raw=true)
 ---
 
 ## 🛠️ Tech Stack
