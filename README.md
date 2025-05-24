@@ -8,7 +8,7 @@
 A fully autonomous, closed-loop farming solution to cultivate exotic vegetables and mushrooms with precision!  
 
 <br>
-![image](https://github.com/user-attachments/assets/dd7f5775-2a17-4657-96a5-94171874333c)
+![image](https://github.com/user-attachments/assets/72c67095-f9e9-4283-acca-67a5e6337923)
 ---
 
 ## 🛠️ Tech Stack
